@@ -1,7 +1,7 @@
 ---
 title: How I can Help You
 template: page
-excerpt: 'My offer, as succinct as I canamke it without a conversation'
+excerpt: 'My offer, as succinct as I can amke it without a conversation'
 ---
 ## 20 Years Experience 
 
