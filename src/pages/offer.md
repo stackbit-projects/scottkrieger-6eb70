@@ -1,6 +1,5 @@
 ---
 title: How I can Help You
-excerpt: lorem-ipsum
 template: page
 ---
 ## 20 Years Experience 
