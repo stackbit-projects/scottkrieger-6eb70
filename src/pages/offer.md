@@ -3,9 +3,6 @@ title: My Offer
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
+## 20 Years Experience 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+I've been working on building web sites since the introduction of Javascript and CSS. I've felt the pains of the browser wars since IE3, NN4. I've dreamt and lived in and loved the content editor's workflow, felt their pain as they worked within expensive monolithic enterprise solutions that were just no good. I built a reputation for finding a way through to production with innovative websites through a broad range of CMS solutions, sorting out multilingual complexities, and staying on top of emerging architectures for clients in a variety of industries including Finance, Built Environments, Manufacturing, Retail, Law FIrms, etc. My best skill is applying empathy to understand your brand and empathy to understand your team and empathy to understand your user. Then I steward experiences through the required toolsets by any means necessary for as many of those user populations as I can help. 
