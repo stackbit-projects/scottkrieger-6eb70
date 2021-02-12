@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My Offer
 excerpt: lorem-ipsum
 template: page
 ---
